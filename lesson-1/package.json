@@ -8,8 +8,7 @@
     "netServer": "node net/server.js",
     "netClient": "node net/client.js",
     "udpServer": "node udp/server.js",
-    "udpClient": "node udp/client.js",
-    "commit": "git-cz"
+    "udpClient": "node udp/client.js"
   },
   "author": "",
   "license": "ISC",
